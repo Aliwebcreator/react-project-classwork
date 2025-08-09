@@ -13,7 +13,8 @@ function Footer (){
     
         <>
         <div style={footerStyles}>
-            <p>&copy; Ali Mehdi</p>
+            <p>&copy; Ali Muntazar
+        </p>
         </div>
         
         </>
